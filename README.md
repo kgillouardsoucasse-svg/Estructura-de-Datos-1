@@ -165,5 +165,5 @@ ventas = crear_arreglo()
 insertar_venta(ventas, 0, 0, "1500.50")
 print(buscar_venta(ventas, 0, 0))    # 1500.50
 print(eliminar_venta(ventas, 0, 0))  # True
-print(buscar_venta(ventas, 0, 0))    # None
+print(buscar_venta(ventas, 0, 0))    # None 
 ```
